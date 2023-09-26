@@ -53,6 +53,6 @@ We may update this Privacy Policy periodically, and it is your responsibility to
 **Contact Us**  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: contact@ivavtech.com or ivavsolutionsinfo@gmail.com
+Email: contact@ivavsolutions.com or ivavsolutionsinfo@gmail.com
 
 Thank you for using Trivhunt. Your privacy and security are important to us.
