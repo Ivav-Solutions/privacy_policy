@@ -24,7 +24,10 @@ Cookies are files with small amount of data that is commonly used as anonymous u
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
 **Location Information** 
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
+
+**Music, Audio, Microphone, Camera, Photos, Videos, and Files**
+We may request access to your device's music, audio, microphone, camera, photos, videos, and files to enable you to create and share community posts. These permissions are only used when you provide explicit consent and permission for specific posts. The music, audio, microphone, camera, photos, videos, and files associated with these posts are securely stored on our servers to facilitate sharing within the community.
 
 **Device Information**
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
