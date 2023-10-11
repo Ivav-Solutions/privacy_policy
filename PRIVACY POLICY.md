@@ -7,6 +7,7 @@ Ivavtech a brand of Ivavsolutions built the Trivhunt app as a free app. This SER
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
+
 **Information Collection and Use** 
 For an improved user experience, we may request certain personally identifiable information, including but not limited to:
 - User's name
@@ -21,7 +22,13 @@ We collect this information to provide and enhance our Service, including recomm
 **Cookies**
 Cookies are files with small amount of data that is commonly used as anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+**Image or Images**
+We may request access to images on your device to enable you to create and share content within our community. These permissions are only used when you provide explicit consent and permission for specific posts. Images associated with these posts are securely stored on our servers to facilitate sharing within the community.
+
+**Contact List** 
+We use your contact list information only within the scope necessary for the designated service. This may include identifying and connecting you with existing contacts who are also using our services or facilitating communication between you and your contacts. We do not use this information for any other purpose, and we do not retain it on our servers.
 
 **Location Information** 
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
